@@ -8,8 +8,6 @@ Meu nome é Gabriel Rossetti de Oliveira e sou graduando em Engenharia de Teleco
   <a href="https://www.linkedin.com/in/gabriel-rossetti-de-oliveira" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
