@@ -1,6 +1,6 @@
 # 👨‍💻 Gabriel Rossetti de Oliveira
 
-**`Desenvolvedor em Desenvolvimento`**
+**`Engenheiro Programador em Desenvolvimento`**
 
 Meu nome é Gabriel Rossetti de Oliveira e sou graduando em Engenharia de Telecomunicações na UNICAMP. Ao longo do curso tive a oportunidade de me tornar Presidente da Atlética do meu campus, onde aprendi muito sobre liderança e gestão de projetos. Também fui contemplado com uma bolsa da UNICAMP para realizar intercâmbio na Suécia, aprofundando meus conhecimentos em Cibersegurança e Python, além de ficar fluente em inglês. Atualmente sou estagiário de redes e infraestrutura na própria UNICAMP.
 
