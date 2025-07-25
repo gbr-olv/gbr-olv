@@ -106,8 +106,7 @@ Meu nome é Gabriel Rossetti de Oliveira e sou graduando em Engenharia de Teleco
 <br/>
 
 ---
-<!--
+
 ### 📊 Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gbr-olv&show_icons=true&theme=tokyonight&include_all_comits=true)](https://github.com/gbr-olv/)
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gbr-olv&layout=compact&theme=tokyonight)](https://github.com/gbr-olv/github-readme-stats)
