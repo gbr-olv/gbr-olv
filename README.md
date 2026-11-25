@@ -2,7 +2,7 @@
 
 **`Engenheiro Programador em Desenvolvimento`**
 
-Meu nome é Gabriel Rossetti de Oliveira e sou graduando em Engenharia de Telecomunicações na UNICAMP. Ao longo do curso tive a oportunidade de me tornar Presidente da Atlética do meu campus, onde aprendi muito sobre liderança e gestão de projetos. Também fui contemplado com uma bolsa da UNICAMP para realizar intercâmbio na Suécia, aprofundando meus conhecimentos em Cibersegurança e Python, além de ficar fluente em inglês. Atualmente sou estagiário de redes e infraestrutura na própria UNICAMP.
+Meu nome é Gabriel Rossetti de Oliveira e sou graduando em Engenharia de Telecomunicações na UNICAMP. Ao longo do curso tive a oportunidade de me tornar Presidente da Atlética do meu campus, onde aprendi muito sobre liderança e gestão de projetos. Também fui contemplado com uma bolsa da UNICAMP para realizar intercâmbio na Suécia, aprofundando meus conhecimentos em Cibersegurança e Python, além de ficar fluente em inglês. Já fui estagiário de redes e infraestrutura na própria UNICAMP, hoje sou estagiário de Sales Engineering na Ubivis.
 
 <div>
   <a href="https://www.linkedin.com/in/gabriel-rossetti-de-oliveira" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
